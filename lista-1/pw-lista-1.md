@@ -31,11 +31,11 @@ Algumas tendências estão moldando o futuro da web:
 
 - **Aplicações Web Progressivas (PWA)** – Sites que funcionam como apps nativos.
   
-  ![PWA](https://source.unsplash.com/400x300/?app,progressive)
+ <!-- ![PWA](https://source.unsplash.com/400x300/?app,progressive)-->
 
 - **Inteligência Artificial** – Personalização de experiências com IA.
   
-  ![Inteligência Artificial](https://source.unsplash.com/400x300/?artificial,intelligence)
+ <!-- ![Inteligência Artificial](https://source.unsplash.com/400x300/?artificial,intelligence)-->
 
 - **Web 3.0 e Blockchain** – Tecnologias descentralizadas para segurança e privacidade.
 
