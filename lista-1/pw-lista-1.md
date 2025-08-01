@@ -11,14 +11,14 @@ O desenvolvimento web pode ser dividido em três camadas principais:
    - CSS (estilo)
    - JavaScript (interatividade)
    
-   ![Frontend](https://source.unsplash.com/400x300/?html,css,javascript)
+   <!-- ![Frontend](https://source.unsplash.com/400x300/?html,css,javascript) -->
 
 2. **Backend** – Responsável pelo funcionamento interno do site. Principais tecnologias:
    - Node.js
    - Python (Django, Flask)
    - PHP
    
-   ![Backend](https://source.unsplash.com/400x300/?server,backend)
+   <!-- ![Backend](https://source.unsplash.com/400x300/?server,backend) -->
 
 3. **Banco de Dados** – Onde as informações são armazenadas. Alguns exemplos:
    - MySQL
