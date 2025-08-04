@@ -1,16 +1,18 @@
-> 🧠 Desafio Prático
-Usando as tags HTML que aprendemos em sala, reproduza a estrutura do site modelo apresentado abaixo.
+> ### 🧠 **Desafio Prático**
+>
+> Usando as **tags HTML** que aprendemos em sala, **reproduza a estrutura** do site modelo apresentado abaixo.
+>
+> 🛠️ **Use apenas HTML** (nada de CSS por enquanto) e concentre-se na **estrutura semântica**, organização dos elementos e uso correto das tags.
+>
+> ✅ Lembre-se de utilizar:
+> - Títulos: `h1`, `h2`, `h3`, etc.
+> - Parágrafos: `p`
+> - Listas: `ul`, `ol`, `li`
+>
+> 📂 Ao finalizar, salve o arquivo como `index.html` e envie dentro da pasta do seu repositório GitHub da aula.
 
-🛠️ Use apenas HTML (nada de CSS por enquanto) e concentre-se na estrutura semântica, organização dos elementos e uso correto das tags.
-
-✅ Lembre-se de utilizar:
-
-Tags de título (<h1>, <h2>, etc.)
-
-Parágrafos (<p>)
-
-Listas (<ul>, <ol>, <li>)
 ---
+
 # 🚀 O Futuro do Desenvolvimento Web
 
 O desenvolvimento web está em constante evolução, trazendo novas tecnologias e desafios. Criar um site moderno envolve conhecer diferentes linguagens e práticas recomendadas.
