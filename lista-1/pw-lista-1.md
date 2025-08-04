@@ -9,7 +9,7 @@
 > - Parágrafos: `p`
 > - Listas: `ul`, `ol`, `li`
 >
-> 📂 Ao finalizar, salve o arquivo como `index.html` e envie dentro da pasta do seu repositório GitHub da aula.
+> 📂 Ao finalizar, salve o arquivo como `index.html`.
 
 ---
 
