@@ -1,9 +1,9 @@
 >### **📌 Lista de Exercícios – Estrutura Básica do HTML**  
 
 >**Instruções:**  
->1. Crie um arquivo HTML chamado **"index.html"**.  
+>1. Crie um arquivo HTML para cada exercício (ex.: exercicio1.html) e salve todos dentro da pasta lista-1.  
 >2. Utilize a estrutura básica do HTML.  
->3. Complete os exercícios abaixo dentro do arquivo.  
+>3. Complete os exercícios abaixo dentro dos respectivos arquivo.  
 
 ---
 
