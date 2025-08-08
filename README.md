@@ -5,8 +5,8 @@ Este repositório contém exercícios práticos para a disciplina de **Programa�
 ## 📂 Listas de Exercícios  
 
 - [📜 Lista 1 - Introdução ao HTML](./lista-1/pw-lista-1.md)  
-- [📜 Lista 2 - Exercícios sobre estrutura](lista-2/pw-lista-2.md)  
-- [📜 Lista 3 - Exercícios tags h1,p,ol,ul...](lista-3/pwI-lista-3.md)  
+- [📜 Lista 2 - Exercícios sobre estrutura](./lista-2/pw-lista-2.md)  
+- [📜 Lista 3 - Exercícios tags h1,p,ol,ul...](./lista-3/pw-lista-3.md)  
 <!--- [📜 Lista 4 - Exercícios tags table, img, form, link...](pwI-lista-4.md)  
 - [📜 Lista 5 - Exercícios estilização, seletores e especificidade ](pwI-lista-5.md)  
 - [📜 Lista 6 - Exercício HTML, CSS, Box Model, Posicionamento, Box-Sizing, e Display](pwI-lista-6.md)
