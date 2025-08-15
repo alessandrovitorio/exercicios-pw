@@ -1,31 +1,143 @@
-# 🌟 Portfólio Pessoal - Atividade de HTML/CSS 🖥️
 
-## 📚 Descrição da Atividade
+### 1. **Alterando o estilo de um título**
+   **Instruções:**
+   - Crie um arquivo HTML com um título `<h1>`.
+   - Aplique uma cor de fundo para a página.
+   - Use CSS para estilizar o título, mudando a cor da fonte e o tamanho da fonte.
 
-Essa atividade é a oportunidade perfeita para você colocar em prática tudo o que aprendeu sobre **HTML**, **CSS**, **Box Model**, **Posicionamento**, **Box-Sizing**, e **Display**! O objetivo é criar um **portfólio pessoal** que seja **funcional, bonito e responsivo**. E o melhor: você tem a **liberdade total** para aprimorar e dar o seu toque criativo ao projeto! 🎨✨
+   **HTML:**
+   ```html
+   <!DOCTYPE html>
+   <html lang="pt-BR">
+   <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Exercício 1</title>
+   </head>
+   <body>
+     <h1>Bem-vindo à aula de CSS!</h1>
+   </body>
+   </html>
+   ```
 
-### 🔥 O Desafio
-1. **Termine o portfólio com base no que foi feito na aula**: O projeto já está parcialmente pronto, e você deve concluir da forma que foi mostrado no vídeo que compartilhei.
-2. **Melhore a estética e adicione mais conteúdo**: Agora vem a parte divertida! Depois de concluir o básico, **deixe o site ainda mais bonito e interessante** com seu toque pessoal. Você pode:
-   - **Ajustar o layout**: Mudar o esquema de cores, ajustar fontes e espaços.
-   - **Adicionar novas seções**: Como "Testemunhos", ou até uma área "Hobbies".
+   **Tarefa:**  
+   - Altere a cor e o tamanho do texto de `<h1>`.
+   - Mude a cor de fundo da página.
 
-### 🏁 Etapas para Concluir a Atividade
+---
 
-#### 1. **Finalize o layout básico como foi feito na aula**
-   No vídeo que compartilhei, mostrei o passo a passo da criação do portfólio. O código básico está pronto, então seu primeiro passo é concluir o que já foi feito.
+### 2. **Mudando a cor de links com seletores**
+   **Instruções:**
+   - Crie um arquivo HTML com uma lista de links.
+   - Utilize CSS para alterar a cor dos links em três estados: normal, ao passar o mouse (hover) e quando clicado (visited).
 
-   - Organize a estrutura básica, utilizando as tags `<header>`, `<section>`, e `<footer>`.
-   - Garanta que o layout esteja agradável e os elementos estejam bem posicionados com as propriedades **box model**, **padding**, **margin** e **border**.
-   
-#### 2. **Aprimore a estética com as suas melhorias**
-   Agora que a base está pronta, é hora de dar aquele toque de mestre! 💪🎨
+   **HTML:**
+   ```html
+   <!DOCTYPE html>
+   <html lang="pt-BR">
+   <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Exercício 2</title>
+   </head>
+   <body>
+     <ul>
+       <li><a href="#">Home</a></li>
+       <li><a href="#">Sobre</a></li>
+       <li><a href="#">Contato</a></li>
+     </ul>
+   </body>
+   </html>
+   ```
 
-   - **Mudanças nas cores**: Troque a paleta de cores para algo mais vibrante ou mais sóbrio, dependendo do estilo que você quer para o seu portfólio.
-   - **Tipografia**: Use fontes do Google Fonts para dar um estilo mais moderno e legível.
-   - **Imagens**: Experimente alterar o fundo das seções ou incluir novas imagens para tornar o layout mais dinâmico.
-   - **Espaçamento**: Ajuste o **padding** e a **margin** para garantir que os elementos estejam bem distribuídos na página.
-   
-   Dica: O segredo está nos **detalhes**. Algo tão simples como ajustar a largura de uma borda ou a opacidade de um fundo pode fazer uma grande diferença! 🌟
+   **Tarefa:**  
+   - Altere as cores dos links nos estados: normal, hover e visited.
+
+---
+
+### 3. **Estilizando parágrafos com classes**
+   **Instruções:**
+   - Crie um arquivo HTML com dois parágrafos.
+   - Use classes CSS para estilizar cada parágrafo de forma diferente, como mudar a cor do texto e o alinhamento.
+
+   **HTML:**
+   ```html
+   <!DOCTYPE html>
+   <html lang="pt-BR">
+   <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Exercício 3</title>
+   </head>
+   <body>
+     <p class="intro">Bem-vindo à nossa página!</p>
+     <p class="descricao">Aqui você encontrará as informações mais importantes.</p>
+   </body>
+   </html>
+   ```
+
+   **Tarefa:**  
+   - Crie estilos para as classes `.intro` e `.descricao`, mudando a cor e o alinhamento do texto.
+
+---
+
+### 4. **Criando um layout com duas colunas**
+   **Instruções:**
+   - Crie um arquivo HTML com duas colunas de conteúdo (divs).
+   - Use CSS para posicioná-las lado a lado.
+   - Aplique uma borda em cada coluna para destacar.
+
+   **HTML:**
+   ```html
+   <!DOCTYPE html>
+   <html lang="pt-BR">
+   <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Exercício 4</title>
+   </head>
+   <body>
+     <div class="coluna">
+       <h2>Coluna 1</h2>
+       <p>Conteúdo da primeira coluna.</p>
+     </div>
+     <div class="coluna">
+       <h2>Coluna 2</h2>
+       <p>Conteúdo da segunda coluna.</p>
+     </div>
+   </body>
+   </html>
+   ```
+
+   **Tarefa:**  
+   - Estilize as divs para que fiquem lado a lado.
+   - Aplique uma borda em cada coluna.
+
+---
+
+### 5. **Aplicando uma margem e preenchimento em elementos**
+   **Instruções:**
+   - Crie um arquivo HTML com um parágrafo dentro de uma div.
+   - Aplique margem e preenchimento para ajustar o espaçamento entre o texto e a borda da div.
+
+   **HTML:**
+   ```html
+   <!DOCTYPE html>
+   <html lang="pt-BR">
+   <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Exercício 5</title>
+   </head>
+   <body>
+     <div class="caixa">
+       <p>Este é um parágrafo dentro de uma div estilizada.</p>
+     </div>
+   </body>
+   </html>
+   ```
+
+   **Tarefa:**  
+   - Adicione estilos para a classe `.caixa` usando as propriedades `margin` e `padding`.
 
 
