@@ -37,7 +37,7 @@ Essa atividade é a oportunidade perfeita para você colocar em prática tudo o 
 
 ## 📚 Objetivo
 
-Criar uma **galeria de imagens** responsiva usando **HTML e CSS puro**, aplicando:
+Criar uma **galeria de imagens** usando **HTML e CSS puro**, aplicando:
 
 * **Box Model**: `margin`, `padding`, `border`, `width`, `height`, `box-sizing`.
 * **Display**: `block`, `inline-block`.
