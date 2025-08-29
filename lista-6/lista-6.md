@@ -29,9 +29,6 @@ Essa atividade é a oportunidade perfeita para você colocar em prática tudo o 
    Dica: O segredo está nos **detalhes**. Algo tão simples como ajustar a largura de uma borda ou a opacidade de um fundo pode fazer uma grande diferença! 🌟
 
    ---
-   Claro! Aqui está o Markdown **limpo**, pronto para enviar para os alunos:
-
----
 
 # Exercicio - 2 🌟 Atividade Prática – Página de Galeria Interativa 🎨📷
 
