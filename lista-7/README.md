@@ -10,7 +10,7 @@
 ✔️ Os produtos devem se alinhar **automaticamente** na tela, sem precisar de `media queries`.  
 ✔️ Os cards terão uma **imagem, título, descrição e botão de compra**.  
 ✔️ **Flexbox** será utilizado para alinhar os elementos e distribuir os produtos dinamicamente.  
-✔️ **./assets/images/** estrão as imagens ja no formato e tamanho do prototipo.  
+✔️ **./assets/images/** estarão as imagens ja no formato e tamanho do prototipo.  
 
 ---
 
