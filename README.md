@@ -10,8 +10,8 @@ Este repositório contém exercícios práticos para a disciplina de **Programa�
 - [📜 Lista 4 - Exercícios tags table, img, form, link...](./lista-4/pw-lista-4.md)  
 - [📜 Lista 5 - Exercícios estilização, seletores e especificidade ](./lista-5/pw-lista-5.md)  
 - [📜 Lista 6 - Exercício HTML, CSS, Box Model, Posicionamento, Box-Sizing, e Display](./lista-6/lista-6.md)
-<!--- [📜 Lista 7 - Exercício Flex Box - Flex Container](pwI-lista-7.md)  
-- [📜 Lista 8 - Projeto - 1: craftsy-blended](./pwI-lista-8/pwI-lista-8.md)  
+- [📜 Lista 7 - Exercício Flex Box - Flex Container](./lista-7/README.md)  
+<!--- [📜 Lista 8 - Projeto - 1: craftsy-blended](./pwI-lista-8/pwI-lista-8.md)  
 - [📜 Lista 9 - Projeto - 2:]() [clone de calculadora](./pwI-lista-9/calculadora) e [clone landing-page](./pwI-lista-9/land-page)
 - [📜 Lista 10 - Projeto: mobile-first](./pwI-lista-10/pwI-lista-10.md)  
 - [📜 Lista 11 - Exercícios: javascript-basico](./pwI-lista-11/pwI-lista-11.md)-->  
