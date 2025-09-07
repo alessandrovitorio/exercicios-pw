@@ -88,3 +88,68 @@ Sintam-se à vontade para personalizar cores, imagens e bordas conforme desejare
 💡 **Agora é sua vez!** Personalize cores, fontes e adicione mais produtos! 🚀
 
 ---
+
+# 🎯 Exercício - 2 Flexbox: Festival de Personagens
+
+## 📝 Objetivo
+
+Nesta atividade você irá treinar o **display: flex** criando um layout visualmente organizado e responsivo, colocando seus **personagens favoritos** em destaque. Seu desafio é aplicar tudo que aprendemos sobre **flex-direction, justify-content, align-items, flex-wrap** e **gap** para deixar o conteúdo bonito, legível e divertido!
+
+---
+
+## 🎯 Requisitos da Atividade
+
+1. **Estrutura da Página**
+
+   * Crie uma página HTML com o título: `Festival de Personagens`.
+   * Organize os personagens em **cards**, cada um com:
+
+     * **Imagem do personagem** (PNG ou JPG)
+     * **Nome do personagem**
+     * **Breve descrição** (uma frase divertida ou curiosidade)
+   * Todos os cards devem estar dentro de um container flexível.
+
+2. **Estilização**
+
+   * O container principal deve usar **display: flex**.
+   * Explore diferentes **direções (row/column)** e **alinhamentos (justify-content, align-items)**.
+   * Os cards devem ter **tamanhos iguais**, margem e espaçamento entre eles.
+   * Inclua **hover effects** para deixar a interação mais divertida (opcional, mas recomendado).
+
+3. **Responsividade**
+
+   * Quando a tela for menor, os cards devem se reorganizar automaticamente.
+   * Utilize **flex-wrap** para quebrar linha e manter a estética do layout.
+
+4. **Criatividade**
+
+   * Escolha seus personagens favoritos de **filmes, games, séries ou animes**.
+   * Capriche na escolha das cores, bordas e estilos para tornar seu festival único! 🌈✨
+
+---
+
+## 📂 Entrega
+
+* Coloque todos os arquivos em uma pasta com seu nome.
+* A estrutura mínima:
+
+```
+/FestivalPersonagens
+    ├── index.html
+    ├── style.css
+    └── imagens/
+```
+
+* Faça commit e push para o seu repositório no GitHub.
+
+---
+
+## ✅ Dicas Extras
+
+* Experimente **justify-content: space-between / space-around / center** para ver diferentes alinhamentos.
+* Combine **flex-direction row e column** dentro de containers diferentes para treinar.
+* Se quiser, adicione **uma pequena animação** no hover para os cards.
+
+---
+
+
