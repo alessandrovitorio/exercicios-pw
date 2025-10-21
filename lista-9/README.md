@@ -27,7 +27,8 @@ O design deve seguir os espaçamentos e posicionamentos indicados no `craftsy-bl
 - **CSS3** → Estilização e responsividade
 
 ## 🖼️ Referências Visuais
-
+### Monkup
+![craftsy-blended-mockups](./prototipos/craftsy-blended-mockups.pdf)
 ### Home
 ![Home](./prototipos/home-craftsy.png)
 
