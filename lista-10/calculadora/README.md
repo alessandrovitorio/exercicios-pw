@@ -21,8 +21,5 @@ O foco é aplicar corretamente os conceitos de **grid** já estudados em aula, o
 
 ---
 
-## 📤 Entrega
 
-- O projeto deve ser publicado em um repositório no GitHub na Pasta pwI-lista-9.
-- O print ou foto da sua escolha deve estar em uma pasta assets.
 
