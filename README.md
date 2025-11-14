@@ -14,7 +14,7 @@ Este repositório contém exercícios práticos para a disciplina de **Programa�
 - [📜 Lista 8 - Exercício Flex Item](./lista-8/README.md)  
 - [📜 Lista 9 - Projeto - 1: craftsy-blended](./lista-9/README.md)  
 - [📜 Lista 10 - Projeto - 2:]() [clone de calculadora](./lista-10/calculadora/) e [clone landing-page](./lista-10/land-page/)
-- [📜 Lista 11 - Projeto: Final](./pwI-lista-11/README.md)  
+- [📜 Lista 11 - Projeto: Final](./lista-11/)  
 <!--- [📜 Lista 12 - Exercícios: javascript-basico](./pw-lista-12/)-->  
 ## 🚀 Como Usar  
 
