@@ -56,12 +56,6 @@ O site deve conter, no mínimo, as seguintes seções:
 ### ✔ Paleta de Cores
 
 Escolham uma paleta harmônica, profissional e que combine com o tema "tecnologia + educação".
-Paletas recomendadas:
-
-* Azul + Branco + Cinza
-* Roxo moderno + Preto + Branco
-* Verde neon + Cinza escuro
-
 Utilizem ferramentas como:
 🎨 **Coolors**, **Adobe Color**, **Pigment**, **Happy Hues**
 
