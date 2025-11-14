@@ -13,9 +13,15 @@ Este repositório contém exercícios práticos para a disciplina de **Programa�
 - [📜 Lista 7 - Exercício Flex Box - Flex Container](./lista-7/README.md)  
 - [📜 Lista 8 - Exercício Flex Item](./lista-8/README.md)  
 - [📜 Lista 9 - Projeto - 1: craftsy-blended](./lista-9/README.md)  
+<<<<<<< HEAD
 - [📜 Lista 10 - Projeto - 2:]() [clone de calculadora](./lista-10/calculadora/) e [clone landing-page](./lista-10/land-page/)
 - [📜 Lista 11 - Projeto: Final](./pwI-lista-11/pwI-lista-11.md)  
 <!--- [📜 Lista 12 - Exercícios: javascript-basico](./pwI-lista-12/pwI-lista-12.md)-->  
+=======
+- [📜 Lista 10 - Projeto - 2:](./lista-10/) [clone de calculadora](./lista-10/calculadora/) e [clone landing-page](./lista-10/land-page/)
+<!--- [📜 Lista 11 - Projeto: mobile-first](./pwI-lista-11/pwI-lista-11.md)  
+- [📜 Lista 12 - Exercícios: javascript-basico](./pwI-lista-12/pwI-lista-12.md)-->  
+>>>>>>> refs/remotes/origin/main
 ## 🚀 Como Usar  
 
 1. Clique no link da lista desejada para visualizar os exercícios.  
